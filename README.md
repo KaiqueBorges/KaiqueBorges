@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaiqueBorges
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript and Git.
+- 🌱 I’m currently learning HTML, CSS and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
