@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KaiqueBorges
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development, Android App Development, Web Automation and Data Science
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Node.Js, Git and Python.
 
 
